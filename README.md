@@ -85,14 +85,24 @@ SQL команди до кожного пункту чи підпункту ви
 
 **Результат виконаного ДЗ**
 <img width="979" height="632" alt="01-image" src="https://github.com/user-attachments/assets/9d891168-d550-4fde-b1cb-caf1fc100459" />
+
 <img width="1008" height="569" alt="02-image" src="https://github.com/user-attachments/assets/fc2b0efa-931f-45ed-8ae3-b74aaad8d378" />
+
 <img width="1046" height="672" alt="03-image" src="https://github.com/user-attachments/assets/ab25135e-a1fb-43fe-92ba-a183a2ef7abc" />
+
 <img width="1054" height="752" alt="04-image" src="https://github.com/user-attachments/assets/67fdb983-8941-4cf0-91d8-8af44f075af6" />
+
 <img width="1074" height="366" alt="05-image" src="https://github.com/user-attachments/assets/7f9bf6d2-eeb6-4fd0-a632-49719de4d133" />
+
 <img width="1021" height="305" alt="06-image" src="https://github.com/user-attachments/assets/68750290-3cee-4b90-a6cc-638f9b4c867f" />
+
 <img width="754" height="300" alt="07-image" src="https://github.com/user-attachments/assets/9b642319-6bf8-4974-98e3-e8dd53334454" />
+
 <img width="867" height="432" alt="08-image" src="https://github.com/user-attachments/assets/64cc3e1c-8d60-431b-a537-4a55717b29b0" />
+
 <img width="937" height="253" alt="09-image" src="https://github.com/user-attachments/assets/a6652ee8-34d7-4c14-bc1d-b94f31e03606" />
+
 <img width="860" height="328" alt="10-image" src="https://github.com/user-attachments/assets/385be492-2c75-480a-94f9-17cda62cd1a6" />
+
 <img width="973" height="357" alt="11-image" src="https://github.com/user-attachments/assets/8b700dc3-aa6b-4eb9-aa05-812333e8ca0c" />
 
